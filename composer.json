@@ -1,5 +1,5 @@
 {
-    "name": "anes/apidoc", 
+    "name": "anes/git-apidoc", 
     "description": "用于自动载入接口文档及提供接口调试", 
     "minimum-stability": "dev",
     "license": "MIT", 
@@ -21,7 +21,7 @@
     }, 
     "autoload": {
         "psr-4": {
-            "anes\\apidoc\\": ""
+            "anes\\git-apidoc\\": ""
         }
     }
 }
