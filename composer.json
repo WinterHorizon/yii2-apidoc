@@ -1,0 +1,27 @@
+{
+    "name": "anes/apidoc", 
+    "description": "用于自动载入接口文档及提供接口调试", 
+    "minimum-stability": "dev",
+    "license": "MIT", 
+    "keywords": [
+        "Yii2",
+        "anes",
+        "apidoc"
+    ], 
+    "authors": [
+        {
+            "name": "horizon", 
+            "email": "52v1@163.com"
+        }
+    ], 
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.7",
+        "mdmsoft/yii2-admin":"~2.0"
+    }, 
+    "autoload": {
+        "psr-4": {
+            "anes\\apidoc\\": ""
+        }
+    }
+}
