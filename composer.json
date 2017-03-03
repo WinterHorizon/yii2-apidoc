@@ -14,10 +14,6 @@
             "email": "52v1@163.com"
         }
     ], 
-    "require": {
-        "php": ">=5.4.0",
-        "yiisoft/yii2": "~2.0.7"
-    }, 
     "autoload": {
         "psr-4": {
             "anes\\git-apidoc\\": ""
